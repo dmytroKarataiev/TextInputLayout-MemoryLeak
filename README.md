@@ -1,6 +1,9 @@
 # TextInputLayout-MemoryLeak
 Tiny app with a reproducible memory leak in a TextInputLayout
 
+## Google Issue
+https://issuetracker.google.com/issues/156230908
+
 ## How to reproduce a memory leak
 1. Compile and install.
 2. Click next, click edit text, press back.
