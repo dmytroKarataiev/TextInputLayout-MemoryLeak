@@ -83,3 +83,5 @@ Tiny app with a reproducible memory leak in a TextInputLayout
     Heap dump timestamp: 1589219906373
     ====================================
 ```
+
+Memory leak is definitely reproducible on Samsung phones SDK 29.
